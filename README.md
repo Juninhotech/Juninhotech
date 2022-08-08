@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-ogar-peter-junior-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogar-peter-junior)](https://www.linkedin.com/in/ogar-peter-junior) [![Twitter Badge](https://img.shields.io/badge/-@peterjuninho-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/peterjuninho)](https://twitter.com/peterjuninho)
+[![Linkedin Badge](https://img.shields.io/badge/-ogarpeterjunior-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogar-peter-junior)](https://www.linkedin.com/in/ogar-peter-junior) [![Twitter Badge](https://img.shields.io/badge/-@peterjuninho-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/peterjuninho)](https://twitter.com/peterjuninho)
 
 I'm a Software Engineer, who currently works as a Developer at [Ietech](https://ietech.com.ng). I'm passionate about sharing knowledge, web engineering, and others.
 
