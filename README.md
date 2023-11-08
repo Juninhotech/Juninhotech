@@ -8,9 +8,7 @@ I'm a Software Engineer, who currently works as a Developer at [Ietech](https://
 
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning C# and ASP.NET.
-- 😊 I’m looking for help with open source projects.
-- 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing juninhopeter1@gmail.com.
+- 💼 Job interests: Software Engineer,Backend Engineer (Junior level).
 
 ---
 
