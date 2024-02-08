@@ -7,8 +7,8 @@ I'm a Software Engineer, who currently works as a Developer at [Ietech](https://
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning C# and ASP.NET.
-- 💼 Job interests: Software Engineer,Backend Engineer (Junior level).
+- 🌱 I’m a C# and ASP.NET developer.
+- 💼 Job interests: Software Engineer,Backend Engineer (mid level).
 
 ---
 
